@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hpdzxl.github.io/sitemap.xml
