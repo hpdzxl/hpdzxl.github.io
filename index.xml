@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>芙蕖之声编辑部</title>
+    <link>https://hpdzxl.github.io/</link>
+    <description></description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025  · 芙蕖之声编辑部  ·  保留所有权利</copyright>
+    <lastBuildDate>Sun, 17 Aug 2025 19:27:21 +0800</lastBuildDate><atom:link href="https://hpdzxl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>版权信息</title>
+      <link>https://hpdzxl.github.io/inf/copyright/</link>
+      <pubDate>Sun, 17 Aug 2025 15:42:54 +0800</pubDate>
+      
+      <guid>https://hpdzxl.github.io/inf/copyright/</guid>
+      <description><br/>
+&lt;h2 class=&#34;relative group&#34;&gt;版权与内容许可 
+    &lt;div id=&#34;版权与内容许可&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e7%89%88%e6%9d%83%e4%b8%8e%e5%86%85%e5%ae%b9%e8%ae%b8%e5%8f%af&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;网站架构与托管：&lt;/strong&gt; 芙蕖之声主站（hpdzxl.github.io）使用 Hugo 构建，采用 Blowfish 主题，托管于 GitHub Pages。Hugo 与 Blowfish 的版权及许可遵循其各自项目的规定。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;内容版权：&lt;/strong&gt; 芙蕖之声主站（以下简称本站）发布的所有文章内容（除非另有明确标注来源），其著作权归属于 &lt;strong&gt;新疆师范大学附属中学 芙蕖之声通讯社&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;内容许可（转载协议）：&lt;/strong&gt; 除非&lt;strong&gt;特别声明&lt;/strong&gt;（见下文第4点），本站发布的&lt;strong&gt;文字内容&lt;/strong&gt;默认采用 &lt;a
+  href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans&#34;
+    target=&#34;_blank&#34;
+  &gt;知识共享 署名—非商业性使用—禁止演绎 4.0 中国大陆（CC BY-NC-ND 4.0 CN）许可协议&lt;/a&gt; 提供。
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;这意味着您可以：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;在注明原作者/来源（芙蕖之声通讯社编辑部及文章作者）并链接回原始文章的前提下，&lt;strong&gt;分享&lt;/strong&gt;（复制、分发本网站的文字内容）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;但是您必须：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;署名 (BY)：&lt;/strong&gt; 清晰显著地标明原作者/来源。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;非商业性使用 (NC)：&lt;/strong&gt; 不得将内容用于任何商业目的（包括但不限于直接销售、广告营销、嵌入付费内容、用于盈利性产品或服务等）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;禁止演绎 (ND)：&lt;/strong&gt; 不得修改、转换或以本内容为基础进行再创作。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特定内容版权：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;插图和背景：&lt;/strong&gt; 本站使用的特定插图和背景由 &lt;strong&gt;新疆师范大学附属中学 呼延朗辰 和 何佳耀&lt;/strong&gt; 拍摄。&lt;strong&gt;该部分内容保留所有权利。&lt;/strong&gt; 未经摄影师及本网站书面明确许可，任何单位或个人不得将其复制、修改、分发或用于任何公开或商业用途。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;定制代码/程序：&lt;/strong&gt; 本网站如有原创的定制化程序代码，其版权归 &lt;strong&gt;新疆师范大学附属中学 芙蕖之声通讯社&lt;/strong&gt;  所有。未经正式授权，不得复制、修改、反向工程或用于商业目的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;商业使用授权：&lt;/strong&gt; 如您希望将本站内容（包括文字、特定图片等受保护元素）用于商业目的，或需要超出 CC BY-NC-ND 4.0 CN 许可范围的使用权限（例如需要修改内容），请务必事先联系本站获取书面授权。联系方式： &lt;a
+  href=&#34;mailto:hpdzxl@outlook.com&#34;&gt;hpdzxl@outlook.com&lt;/a&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;免责声明 
+    &lt;div id=&#34;免责声明&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%85%8d%e8%b4%a3%e5%a3%b0%e6%98%8e&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;信息准确性：&lt;/strong&gt; 本站提供的信息和资料仅供参考。尽合理努力确保其准确性与时效性，但不对其完整性、适用性或任何错误、遗漏承担任何明示或默示的保证或责任。依赖本站信息所作的任何决定或行动风险由您自行承担。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;外部链接：&lt;/strong&gt; 本站可能包含指向第三方网站的链接。这些链接仅为方便用户提供，不代表本站对其内容、隐私政策或运营的认可或担保。访问这些链接的风险由您自行承担。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;服务可用性：&lt;/strong&gt; 本站将尽力确保服务的稳定性和连续性。但鉴于互联网的特殊性，对于因系统维护、升级、技术故障、不可抗力（如自然灾害、政府行为、黑客攻击、病毒侵袭、电信中断等）或任何超出本站合理控制范围的原因造成的服务中断、延迟、数据丢失或错误，本站不承担任何责任。暂停服务将尽可能提前公告。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;用户行为与安全：&lt;/strong&gt; 您有责任确保使用本站的方式合法合规且不损害本站及他人权益。禁止利用本站从事任何违反中华人民共和国法律或破坏网络安全的行为（如恶意攻击、传播病毒等）。因用户违反法律规定或本声明条款所引起的一切后果和责任，由用户自行承担，本站不承担任何责任。对于因用户行为导致的个人数据泄露，本站不承担责任。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;依法配合义务：&lt;/strong&gt; 如根据中华人民共和国法律法规或司法机关、行政机关依法定程序要求，本站可能需要披露用户信息或内容。在此情况下，本站将依法予以配合，此等披露行为不视为本站违反保密义务或承担相关责任。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;侵权内容处理：&lt;/strong&gt; 本站尊重知识产权。若您认为本站上的内容侵犯了您的合法权益（如著作权、商标权等），请按以下程序提交书面通知：
+&lt;ul&gt;
+&lt;li&gt;权利人的姓名（名称）、联系方式、地址及有效身份/资质证明；&lt;/li&gt;
+&lt;li&gt;要求删除或断开链接的涉嫌侵权内容的准确名称和网络地址（URL）；&lt;/li&gt;
+&lt;li&gt;构成侵权的初步证明材料（如权属证明、侵权事实说明等）；&lt;/li&gt;
+&lt;li&gt;通知书需包含以下声明：“本人/本单位保证，本通知中所述信息是充分、真实、准确的，本人/本单位是所投诉内容的合法权利人，或合法权利人的授权代理人。本人/本单位承担因虚假陈述或恶意投诉所导致的一切法律后果。”&lt;/li&gt;
+&lt;li&gt;请将上述材料发送至： &lt;strong&gt;&lt;a
+  href=&#34;mailto:hpdzxl@outlook.com&#34;&gt;hpdzxl@outlook.com&lt;/a&gt;&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;收到&lt;strong&gt;符合要求的有效通知&lt;/strong&gt;后，本站将在合理时间（通常为5个工作日内）进行核实并采取删除或断开链接等必要措施。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;用户义务与协议接受 
+    &lt;div id=&#34;用户义务与协议接受&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e7%94%a8%e6%88%b7%e4%b9%89%e5%8a%a1%e4%b8%8e%e5%8d%8f%e8%ae%ae%e6%8e%a5%e5%8f%97&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;您对本网站的任何使用行为（包括但不限于访问、浏览、下载内容）即视为您已阅读、理解并同意完全接受本版权声明及免责条款的所有内容。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;本声明的解释、修改及更新权归本站所有。如有更新，将在本站公布，恕不另行通知。更新后的声明一经公布即代替原来的声明。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;本声明中未尽事宜，均遵照中华人民共和国相关法律法规执行。如本声明与法律法规相冲突，以法律法规为准。&lt;/p&gt;
+&lt;p&gt;本网站建议使用 IE11.0、Chrome 139、Edge 139 及以上版本，1920x1080分辨率浏览本站。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;二〇二五年八月十七日 于新疆生产建设兵团 农业建设第八师师部修订&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;本声明的修订遵守中华人民共和国国家法律及修订地的地方性法律法规。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>测试文章</title>
+      <link>https://hpdzxl.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Sat, 16 Aug 2025 18:40:10 +0800</pubDate>
+      
+      <guid>https://hpdzxl.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+      <description><br/>&lt;p&gt;累死累死。经过了我两天不眠不休的战斗过后，芙蕖之声的新网站终于能以最原始的状态，与大家见面了。&lt;/p&gt;
+&lt;p&gt;虽然难以避免的，还会有很多的bug，我也希望在各位同志们浏览的过程中，随时向我提供反馈。你们的反馈，就是回赠给我的最好礼物。&lt;/p&gt;
+&lt;p&gt;最后，感谢大家的厚爱！&lt;/p&gt;
+&lt;p&gt;2025.8.16 &amp;mdash;河畔的执行力&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;今天更改了文章分页的排版方式，给每篇文章添加了背景图。现在在每篇单独文章界面时，下滑时都添加了模糊效果。&lt;/p&gt;
+&lt;p&gt;写了一个版权声明，在全站下方的“保留所有权利”处添加了链接。&lt;/p&gt;
+&lt;p&gt;还是充实的一天！&lt;/p&gt;
+&lt;p&gt;2025.8.17 &amp;mdash;河畔的执行力&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hpdzxl.github.io/notice/</link>
+      <pubDate>Sat, 16 Mar 2024 18:39:34 +0800</pubDate>
+      
+      <guid>https://hpdzxl.github.io/notice/</guid>
+      <description><br/>
+  
+
+
+
+&lt;div
+  
+    class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
+  
+  &gt;
+  &lt;span
+    
+      class=&#34;text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center&#34;
+    
+    &gt;
+    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+
+  &lt;span
+    
+      class=&#34;dark:text-neutral-300&#34;
+    
+    &gt;芙蕖之声新网站 (&lt;a
+  href=&#34;https://hpdzxl.github.io&#34;
+    target=&#34;_blank&#34;
+  &gt;https://hpdzxl.github.io&lt;/a&gt;) 已正式上线，2025/9/10起使用该域名作为唯一网址，原 (&lt;a
+  href=&#34;https://fuquzhisheng.mysxl.cn&#34;
+    target=&#34;_blank&#34;
+  &gt;https://fuquzhisheng.mysxl.cn&lt;/a&gt;) 和 [知识解放战线论坛](&lt;a
+  href=&#34;https://knowledgefrontline.flarum.cloud/&#34;
+    target=&#34;_blank&#34;
+  &gt;https://knowledgefrontline.flarum.cloud/&lt;/a&gt;) 将逐步迁移至本站。
+原网站将在2025/10/1停止所有服务，届时将会重定向至本网。如对新网站有任何方面的建议，欢迎发送反馈至hpdzxl@outlook.com。&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;br/&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

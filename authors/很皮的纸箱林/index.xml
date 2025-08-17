@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>芙蕖之声编辑部</title>
+    <link>https://hpdzxl.github.io/authors/%E5%BE%88%E7%9A%AE%E7%9A%84%E7%BA%B8%E7%AE%B1%E6%9E%97/</link>
+    <description></description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025  · 芙蕖之声编辑部  ·  保留所有权利</copyright>
+    <lastBuildDate>Sun, 17 Aug 2025 19:27:21 +0800</lastBuildDate><atom:link href="https://hpdzxl.github.io/authors/%E5%BE%88%E7%9A%AE%E7%9A%84%E7%BA%B8%E7%AE%B1%E6%9E%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>全站声明及通知</title>
+      <link>https://hpdzxl.github.io/inf/</link>
+      <pubDate>Sun, 17 Aug 2025 10:11:15 +0800</pubDate>
+      
+      <guid>https://hpdzxl.github.io/inf/</guid>
+      <description><br/></description>
+      
+    </item>
+    
+    <item>
+      <title>我们的故事</title>
+      <link>https://hpdzxl.github.io/posts/</link>
+      <pubDate>Sun, 17 Aug 2025 10:11:15 +0800</pubDate>
+      
+      <guid>https://hpdzxl.github.io/posts/</guid>
+      <description><br/></description>
+      
+    </item>
+    
+  </channel>
+</rss>

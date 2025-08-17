@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>芙蕖之声编辑部</title>
+    <link>https://hpdzxl.github.io/posts/</link>
+    <description></description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025  · 芙蕖之声编辑部  ·  保留所有权利</copyright>
+    <lastBuildDate>Sun, 17 Aug 2025 19:27:21 +0800</lastBuildDate><atom:link href="https://hpdzxl.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试文章</title>
+      <link>https://hpdzxl.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Sat, 16 Aug 2025 18:40:10 +0800</pubDate>
+      
+      <guid>https://hpdzxl.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+      <description><br/>&lt;p&gt;累死累死。经过了我两天不眠不休的战斗过后，芙蕖之声的新网站终于能以最原始的状态，与大家见面了。&lt;/p&gt;
+&lt;p&gt;虽然难以避免的，还会有很多的bug，我也希望在各位同志们浏览的过程中，随时向我提供反馈。你们的反馈，就是回赠给我的最好礼物。&lt;/p&gt;
+&lt;p&gt;最后，感谢大家的厚爱！&lt;/p&gt;
+&lt;p&gt;2025.8.16 &amp;mdash;河畔的执行力&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;今天更改了文章分页的排版方式，给每篇文章添加了背景图。现在在每篇单独文章界面时，下滑时都添加了模糊效果。&lt;/p&gt;
+&lt;p&gt;写了一个版权声明，在全站下方的“保留所有权利”处添加了链接。&lt;/p&gt;
+&lt;p&gt;还是充实的一天！&lt;/p&gt;
+&lt;p&gt;2025.8.17 &amp;mdash;河畔的执行力&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
